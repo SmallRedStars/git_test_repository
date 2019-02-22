@@ -5,3 +5,4 @@
 2019/02/22 git merge master!!
 2019/02/22 git merge test01
 2019/02/22 git --no--off test
+2019/02/22 git --no--off test01
